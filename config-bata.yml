@@ -1,2 +1,2 @@
-config:
-  info: "bata branch,config/config-bata.yml version=1"
+server:
+  port: 3344

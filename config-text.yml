@@ -1,2 +1,2 @@
-config:
-  info: "text branch,config/config-text.yml version=1"
+server:
+  port: 3344
